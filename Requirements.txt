@@ -1,0 +1,1 @@
+You need to download the Gpt4all model I used: llama-3.2-1b-instruct-q4_k_m.gguf
