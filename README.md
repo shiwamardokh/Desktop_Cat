@@ -17,11 +17,11 @@ She moves, chats, and keeps you company — all powered by Python, Tkinter, anim
 
 ## ✨ **Features**
 
-- 🐱 **Animated desktop pet** with multiple GIF states (idle, typing, talking, etc.)
-- 💬 **Interactive AI chat window** with a custom-built personality
-- ⌨️ **Typing animations** that sync with your chat box
-- 🎨 **Custom character design** (Miki the hybrid cat-girl)
-- ⚙️ **Local LLM integration (GPT4All)** — no API keys required
+- **Animated desktop pet** with multiple GIF states (idle, typing, talking, etc.)
+- **Interactive AI chat window** with a custom-built personality
+- **Typing animations** that sync with your chat box
+- **Custom character design** (Miki the hybrid cat-girl)
+- **Local LLM integration (GPT4All)** — no API keys required
 
 ---
 
