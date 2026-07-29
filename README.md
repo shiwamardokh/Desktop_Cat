@@ -8,9 +8,9 @@ I made this project as a **birthday gift for my husband** 💛
 
 ---
 
-# 🐾 **Miki — Your Desktop Cat Assistant**
+# 🐾 **Mika — Your Desktop Cat Assistant**
 
-Miki is a cute mew–human hybrid desktop companion that lives on your screen.  
+Mika is a cute mew–human hybrid desktop companion that lives on your screen.  
 She moves, chats, and keeps you company — all powered by Python, Tkinter, animations, and local LLMs like GPT4All.
 
 ---
@@ -20,7 +20,7 @@ She moves, chats, and keeps you company — all powered by Python, Tkinter, anim
 - **Animated desktop pet** with multiple GIF states (idle, typing, talking, etc.)
 - **Interactive AI chat window** with a custom-built personality
 - **Typing animations** that sync with your chat box
-- **Custom character design** (Miki the hybrid cat-girl)
+- **Custom character design** (Mika the hybrid cat-girl)
 - **Local LLM integration (GPT4All)** — no API keys required
 
 ---
@@ -47,7 +47,7 @@ python desktop_cat.py
 ## 📁 **Project Structure**
 
 ```
-miki-desktop-cat/
+mika-desktop-cat/
 │
 ├── Assets/
 │   ├── idle.gif
@@ -68,7 +68,7 @@ To use GPT4All:
 
 - Place your `.gguf` model file in a folder you control  
 - Update the model path inside `desktop_cat.py`  
-- Run the script — Miki will respond using the local LLM
+- Run the script — Mika will respond using the local LLM
 
 ---
 
@@ -83,7 +83,7 @@ is original work and protected by UK copyright law.
 Unauthorized use, copying, or redistribution is prohibited.
 ```
 
-This repository is intentionally **not open-source** to protect the originality and character design of Miki.
+This repository is intentionally **not open-source** to protect the originality and character design of Mika.
 
 ---
 
