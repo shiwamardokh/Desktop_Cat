@@ -2,7 +2,7 @@
 
 This is a Python project for a cute desktop cat. Her name is **Mika**, and she loves eating pizza.  
 I implemented a little **cat language translator** for her so she can speak with you!  
-I made this project as a **birthday gift for my husband** 💛  
+I made this project as a **birthday gift for my boyfriend** 💛  
 
 > *(The project still needs a few adjustments; I'm actively working on it!)*
 
